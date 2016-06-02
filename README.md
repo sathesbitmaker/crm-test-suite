@@ -1,6 +1,8 @@
+# Contact class test suite
+
 1. Move the `test` directory into your CRM assignment.
 
-2. Run the test suite against your contact class by running:
+2. Run the test suite against your contact class with the command:
 
   `ruby test/contact.rb`
 
